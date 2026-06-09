@@ -56,11 +56,6 @@ examen-html-y-css-1/
 │   ├── toallas higienicas.jpeg
 │   ├── vegetales frescos.jpeg
 │   └── verduras.jpg
-│
-├── .vscode/
-│   └── settings.json
-│
-└── .git/
 ```
 
 ## Funcionalidades
