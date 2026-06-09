@@ -10,9 +10,9 @@ La página web está compuesta por varias secciones interconectadas que permiten
 
 El diseño utiliza una temática visual inspirada en la naturaleza, con colores verdes y elementos que refuerzan el concepto de sostenibilidad ambiental.
 
----
-
 ## Estructura del Proyecto
+
+```text
 examen-html-y-css-1/
 │
 ├── index.html
@@ -35,7 +35,7 @@ examen-html-y-css-1/
 │   ├── bolso de tela.jpg
 │   ├── cactus.jpeg
 │   ├── cepillo de dientes.jpg
-│   ├── copa mestrual.jpg
+│   ├── copa menstrual.jpg
 │   ├── eco lifestyle.jpg
 │   ├── espatifilo.jpg
 │   ├── esponja eco.jpg
@@ -55,10 +55,13 @@ examen-html-y-css-1/
 │   ├── termo termico.jpg
 │   ├── toallas higienicas.jpeg
 │   ├── vegetales frescos.jpeg
-│   ├── verduras.jpg
-
-
----
+│   └── verduras.jpg
+│
+├── .vscode/
+│   └── settings.json
+│
+└── .git/
+```
 
 ## Funcionalidades
 
