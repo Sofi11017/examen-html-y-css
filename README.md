@@ -19,22 +19,43 @@ examen-html-y-css-1/
 ├── catalogo.html
 ├── nosotros.html
 ├── contacto.html
+├── README.md
 │
 ├── css/
-│ ├── styles.css
-│ ├── catalogo.css
-│ ├── nosotros.css
-│ └── contacto.css
+│   ├── styles.css
+│   ├── catalogo.css
+│   ├── nosotros.css
+│   └── contacto.css
 │
 ├── img/
-│ ├── logo.png
-│ ├── fondo.avif
-│ ├── frutas.jpg
-│ ├── productos naturales.jpg
-│ ├── cactus.jpeg
-│ └── demás imágenes del catálogo
-│
-└── README.md
+│   ├── aceite de oliva.jpg
+│   ├── aloe vera.jpeg
+│   ├── avena.jpeg
+│   ├── bolsas de silicon.jpg
+│   ├── bolso de tela.jpg
+│   ├── cactus.jpeg
+│   ├── cepillo de dientes.jpg
+│   ├── copa mestrual.jpg
+│   ├── eco lifestyle.jpg
+│   ├── espatifilo.jpg
+│   ├── esponja eco.jpg
+│   ├── fondo.avif
+│   ├── frutas organicas.jpeg
+│   ├── frutas.jpg
+│   ├── lavanda.jpeg
+│   ├── logo.png
+│   ├── miel.jpeg
+│   ├── palillos chinos.jpg
+│   ├── peine de bambu.jpg
+│   ├── plantas eco.jpg
+│   ├── productos de uso personal.jpg
+│   ├── productos naturales.jpg
+│   ├── shampoo eco.jpg
+│   ├── suculenta.jpg
+│   ├── termo termico.jpg
+│   ├── toallas higienicas.jpeg
+│   ├── vegetales frescos.jpeg
+│   ├── verduras.jpg
 
 
 ---
